@@ -11,3 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 for commit A
 for commit B
+for commit C
