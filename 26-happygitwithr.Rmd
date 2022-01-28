@@ -1,0 +1,12 @@
+---
+title: "26-happygitwithr"
+author: "Brenwin"
+date: "29/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+for commit A
